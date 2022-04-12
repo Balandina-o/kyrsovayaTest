@@ -5,4 +5,5 @@ public class CalcServlet {
 	//hello servlet
 	//artyom
 	//diana
+    //merge conflict artyom
 }
