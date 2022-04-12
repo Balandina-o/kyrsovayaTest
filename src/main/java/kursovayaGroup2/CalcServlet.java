@@ -8,4 +8,6 @@ public class CalcServlet {
     //merge conflict artyom
 	//tagtest
     //gfgfgf
+	
+	//Let there be merge conflict!
 }
