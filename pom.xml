@@ -8,6 +8,7 @@
   <description>Курсовая работа 2 подгруппы</description>
   <url>http://maven.apache.org</url>
   
+  
   <build>
   <finalName>PropertyTaxWebApp</finalName>
   <defaultGoal>package</defaultGoal>
