@@ -5,6 +5,5 @@ public class Artyom {
         System.out.println("ARTEM");
         System.out.println("а");
         System.out.println("б");
-        System.out.println("вв");
     }
 }
